@@ -38,9 +38,6 @@ AEGIS uses simulated data from water consumption, activity, and temperature sens
     ```
 4.  Open your browser to the provided local URL (usually `http://localhost:8501`).
 
-## 📷 Preview
-
-*(You can add a screenshot here later by uploading an image file to your repo and linking it!)*
 
 ## 🔮 Future Scope
 
@@ -50,5 +47,6 @@ AEGIS uses simulated data from water consumption, activity, and temperature sens
 - Expansion to other livestock (aquaculture, dairy).
 
 ## 📝 License
+
 
 This project is licensed for demonstration and portfolio purposes.
